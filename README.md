@@ -19,6 +19,9 @@ This file is virus-free and made with auto-py-to-exe, for more informations cont
 
 # Preview
 exe
+
 ![image](https://user-images.githubusercontent.com/101676103/159127177-7a01868a-2d8a-4d1b-a278-a7ba44387dfb.png)
+
 py script
+
 ![image](https://user-images.githubusercontent.com/101676103/159127201-952befd3-bb24-4544-9694-f14e2c755677.png)
