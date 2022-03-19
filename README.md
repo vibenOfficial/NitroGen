@@ -14,7 +14,7 @@ if you have any issues using this tool don't forget to report it in the issues p
 If you'd like to edit this code & make it your own you can check source.py, just give me credit if you do so.
 
 # Safety
-This file is virus-free and made with auto-py-to-exe, for more informations contact me on discord at viben#0076.
+This file is virus-free and made with auto-py-to-exe, if detected as virus it may be a false-alarm because its a python script for more informations contact me on discord at viben#0076.
 
 
 # Preview
