@@ -16,6 +16,8 @@ If you'd like to edit this code & make it your own you can check source.py, just
 # Safety
 This file is virus-free and made with auto-py-to-exe, if detected as virus it may be a false-alarm because its a python script for more informations contact me on discord at viben#0076.
 
+# Lastest Update
+Added 'Press enter to exit' feature on .exe & source file.
 
 # Preview
 exe
