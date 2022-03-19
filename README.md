@@ -8,3 +8,10 @@ simply execute nitrogen.exe & enter the amount to start generating nitros, after
 
 
 if you have any issues using this tool don't forget to report it in the issues page, we'll try to help you as fast as possible!
+
+
+# Source
+If you'd like to edit this code & make it your own you can check source.py, just give me credit if you do so.
+
+# Safety
+This file is virus-free and made with auto-py-to-exe, for more informations contact me on discord at viben#0076.
