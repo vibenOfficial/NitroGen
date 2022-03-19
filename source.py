@@ -26,9 +26,10 @@ os.system("title Nitro Gen ~ Made by viben#0076")
 amount = int(input('Amount > '))
 value = 1
 while value <= amount:
-	code = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=16))
+	code = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=15))
 	f = open('codes.txt', "a+")
 	f.write(f'{code}\n')
 	print(colored(f'{code}', 'yellow'))
 	value += 1
-print("\n\n\nDone, Closing program....")
+print('')
+input(Fore.GREEN + 'Saved in codes.txt, press enter to exit the program. ')
