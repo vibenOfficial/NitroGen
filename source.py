@@ -21,7 +21,7 @@ print(colored('this tool is made by viben#0076, if u edit it pls give me credit!
 print('')
 print('')
 
-os.system("title Nitro Gen ~ Made by viben#0076")
+os.system("title Nitro Gen v1 ~ Made by viben#0076")
 
 amount = int(input('Amount > '))
 value = 1
