@@ -50,7 +50,7 @@ if choice == '1':
  amount = int(input('Amount > '))
  value = 1
  while value <= amount:
-  code = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=16))
+  code = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=15))
   f = open('unchecked.txt', "a+")
   f.write(f'{code}\n')
   print(colored(f'{code}', 'yellow'))
